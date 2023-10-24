@@ -1,4 +1,4 @@
-```
+
 ORDER BOOK PROGRAMMING PROBLEM
 
 BACKGROUND
@@ -62,7 +62,7 @@ If the book does not contain target-size shares in the appropriate type of order
 EXAMPLE INPUT AND OUTPUT
 
 Here is an example run of Pricer with a target-size of 200. Input messages are in the left column. Notes and output messages are in the right column.
-
+```
 Standard Input	Standard Output/Notes
 28800538 A b S 44.26 100	No output yet because neither the bids nor the asks in the book have a total of 200 shares yet.
 28800562 A c B 44.10 100	Still not enough shares on either side of the book.
